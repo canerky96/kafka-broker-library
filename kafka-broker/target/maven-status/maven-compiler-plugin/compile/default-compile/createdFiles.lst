@@ -1,0 +1,5 @@
+product\Product.class
+product\ProductProducerService.class
+product\Category.class
+product\ProductProducerServiceImpl.class
+KafkaProducerConfig.class
