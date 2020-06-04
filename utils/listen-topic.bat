@@ -1,0 +1,1 @@
+C:\tools\kafka_2.12-2.2.1\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic product.t --from-beginning
