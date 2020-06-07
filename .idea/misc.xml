@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/producer-client/pom.xml" />
         <option value="$PROJECT_DIR$/kafka-broker/pom.xml" />
+        <option value="$PROJECT_DIR$/producer-service/pom.xml" />
       </list>
     </option>
   </component>

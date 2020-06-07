@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/kafka-broker/kafka-broker.iml" filepath="$PROJECT_DIR$/kafka-broker/kafka-broker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kafka-broker-library.iml" filepath="$PROJECT_DIR$/.idea/kafka-broker-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/producer-client/producer-client.iml" filepath="$PROJECT_DIR$/producer-client/producer-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer-service/producer-service.iml" filepath="$PROJECT_DIR$/producer-service/producer-service.iml" />
     </modules>
   </component>
 </project>
